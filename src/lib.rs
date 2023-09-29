@@ -1,5 +1,6 @@
-//! #remtools
 //! Little snippets of code that i find myself needing often, so i compiled them into a crate.
+//!
+//! Main features are the `join` macro and the `FancyText` / `colors` system for text formatting. 
 
 use std::{fs, io};
 use std::fs::File;

@@ -1,0 +1,7 @@
+[package]
+name = "remtools"
+version = "0.0.0"
+edition = "2021"
+authors = ["RemRemEgg"]
+description = "RemRemEgg's tools"
+license = "MIT"
